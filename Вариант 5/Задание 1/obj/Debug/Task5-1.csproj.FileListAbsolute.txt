@@ -1,0 +1,7 @@
+D:\Учеба\ООП\Olimp\Tasks\Task5-1\bin\Debug\Task5-1.exe.config
+D:\Учеба\ООП\Olimp\Tasks\Task5-1\bin\Debug\Task5-1.exe
+D:\Учеба\ООП\Olimp\Tasks\Task5-1\bin\Debug\Task5-1.pdb
+D:\Учеба\ООП\Olimp\Tasks\Task5-1\obj\Debug\Task5-1.csprojAssemblyReference.cache
+D:\Учеба\ООП\Olimp\Tasks\Task5-1\obj\Debug\Task5-1.csproj.CoreCompileInputs.cache
+D:\Учеба\ООП\Olimp\Tasks\Task5-1\obj\Debug\Task5-1.exe
+D:\Учеба\ООП\Olimp\Tasks\Task5-1\obj\Debug\Task5-1.pdb

@@ -1,0 +1,14 @@
+D:\Учеба\ООП\Olimp\Tasks\Task4-1\bin\Debug\Task4-1.exe.config
+D:\Учеба\ООП\Olimp\Tasks\Task4-1\bin\Debug\Task4-1.exe
+D:\Учеба\ООП\Olimp\Tasks\Task4-1\bin\Debug\Task4-1.pdb
+D:\Учеба\ООП\Olimp\Tasks\Task4-1\obj\Debug\Task4-1.csprojAssemblyReference.cache
+D:\Учеба\ООП\Olimp\Tasks\Task4-1\obj\Debug\Task4-1.csproj.CoreCompileInputs.cache
+D:\Учеба\ООП\Olimp\Tasks\Task4-1\obj\Debug\Task4-1.exe
+D:\Учеба\ООП\Olimp\Tasks\Task4-1\obj\Debug\Task4-1.pdb
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 4\Задание 1\bin\Debug\Task4-1.exe.config
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 4\Задание 1\bin\Debug\Task4-1.exe
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 4\Задание 1\bin\Debug\Task4-1.pdb
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 4\Задание 1\obj\Debug\Task4-1.csprojAssemblyReference.cache
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 4\Задание 1\obj\Debug\Task4-1.csproj.CoreCompileInputs.cache
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 4\Задание 1\obj\Debug\Task4-1.exe
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 4\Задание 1\obj\Debug\Task4-1.pdb

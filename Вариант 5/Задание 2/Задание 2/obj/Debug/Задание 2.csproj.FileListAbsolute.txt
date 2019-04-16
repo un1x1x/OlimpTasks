@@ -1,0 +1,7 @@
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 5\Задание 2\Задание 2\bin\Debug\Задание 2.exe.config
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 5\Задание 2\Задание 2\bin\Debug\Задание 2.exe
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 5\Задание 2\Задание 2\bin\Debug\Задание 2.pdb
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 5\Задание 2\Задание 2\obj\Debug\Задание 2.csprojAssemblyReference.cache
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 5\Задание 2\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 5\Задание 2\Задание 2\obj\Debug\Задание 2.exe
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 5\Задание 2\Задание 2\obj\Debug\Задание 2.pdb

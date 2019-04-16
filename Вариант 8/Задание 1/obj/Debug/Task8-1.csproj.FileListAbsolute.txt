@@ -1,0 +1,14 @@
+D:\Учеба\ООП\Olimp\Tasks\Tasks\bin\Debug\Tasks.exe.config
+D:\Учеба\ООП\Olimp\Tasks\Tasks\bin\Debug\Tasks.exe
+D:\Учеба\ООП\Olimp\Tasks\Tasks\bin\Debug\Tasks.pdb
+D:\Учеба\ООП\Olimp\Tasks\Tasks\obj\Debug\Task8-1.csprojAssemblyReference.cache
+D:\Учеба\ООП\Olimp\Tasks\Tasks\obj\Debug\Task8-1.csproj.CoreCompileInputs.cache
+D:\Учеба\ООП\Olimp\Tasks\Tasks\obj\Debug\Tasks.exe
+D:\Учеба\ООП\Olimp\Tasks\Tasks\obj\Debug\Tasks.pdb
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 8\Задание 1\bin\Debug\Tasks.exe.config
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 8\Задание 1\bin\Debug\Tasks.exe
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 8\Задание 1\bin\Debug\Tasks.pdb
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 8\Задание 1\obj\Debug\Task8-1.csprojAssemblyReference.cache
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 8\Задание 1\obj\Debug\Task8-1.csproj.CoreCompileInputs.cache
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 8\Задание 1\obj\Debug\Tasks.exe
+C:\Users\DENYS\Desktop\Олимпиада\Вариант 8\Задание 1\obj\Debug\Tasks.pdb
